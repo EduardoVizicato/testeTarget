@@ -1,0 +1,14 @@
+C:\trabalhos para postar\TARGET\ex1\bin\Debug\net9.0\ex1.exe
+C:\trabalhos para postar\TARGET\ex1\bin\Debug\net9.0\ex1.deps.json
+C:\trabalhos para postar\TARGET\ex1\bin\Debug\net9.0\ex1.runtimeconfig.json
+C:\trabalhos para postar\TARGET\ex1\bin\Debug\net9.0\ex1.dll
+C:\trabalhos para postar\TARGET\ex1\bin\Debug\net9.0\ex1.pdb
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ex1.AssemblyInfoInputs.cache
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ex1.AssemblyInfo.cs
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ex1.csproj.CoreCompileInputs.cache
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ex1.dll
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\refint\ex1.dll
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ex1.pdb
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ex1.genruntimeconfig.cache
+C:\trabalhos para postar\TARGET\ex1\obj\Debug\net9.0\ref\ex1.dll
